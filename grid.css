@@ -1,0 +1,28 @@
+
+  
+    
+h1{
+   text-align: center;
+   fill-opacity: 28px;
+   font-size: 60px;
+
+}
+body{
+
+}
+main{
+    width: 90%;
+justify-content: space-between;
+display: grid;
+grid-template-columns: 20% 20% 20% 20% ;
+
+}
+div{
+    width: 20rem;
+    height: 40vh;
+    background-color: brown;
+    border-left-color: rgb(15, 19, 15); 
+    border-radius: 2rem;
+    box-shadow: 20px 30px seagreen;
+
+}
